@@ -1,0 +1,2 @@
+2020-06-08 12:41:59.658 vmmap[47253:1528322] pid_for_task(903) failed with error 5: (os/kern) failure
+vmmap[47253]: [fatal] posix_spawn: /usr/bin/vmmap could not be launched as a 32-bit process with architecture i386: Bad CPU type in executable (86)
